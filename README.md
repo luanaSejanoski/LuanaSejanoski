@@ -16,7 +16,7 @@ Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atua
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuanaSejanoski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/luanasejanoski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -93,7 +93,7 @@ Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atua
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanaSejanoski&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanasejanoski&show_icons=true&theme=tokyonight" 
   />
   <br>
 
@@ -102,7 +102,7 @@ Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atua
       alt="GitHub Stats" 
       height="150" 
       padding-top="50px"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanaSejanoski&show_icons=true&theme=tokyonight&count=9"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanasejanoski&show_icons=true&theme=tokyonight&count=9"
   />
 
 </p>

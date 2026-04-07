@@ -5,14 +5,14 @@
 Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UP. Sou apaixonada por tecnologia e estou sempre buscando melhorar.
 
 <p align="left">
-    <a href="https://github.com/LuanaSejanoski?tab=repositories&sort=stargazers">
+    <a href="https://github.com/luanasejanoski?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuanaSejanoski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/luanasejanoski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/LuanaSejanoski?tab=followers">
+    <a href="https://github.com/luanasejanoski?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

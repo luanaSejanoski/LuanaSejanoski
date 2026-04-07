@@ -92,7 +92,7 @@ Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atua
     align="left" 
     alt="GitHub Stats" 
     height="190" 
-    style="padding-right: 10px; margin-button: 20px" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanaSejanoski&show_icons=true&theme=tokyonight" 
   />
 
@@ -100,6 +100,7 @@ Me chamo Luana Sejanoski Schisler, tenho 19 anos e sou natural de Curitiba. Atua
       align="left" 
       alt="GitHub Stats" 
       height="140" 
+      style="margin-top: 20px"
       width="400"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanaSejanoski&show_icons=true&theme=tokyonight&count=9"
   />
